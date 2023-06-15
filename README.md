@@ -1,4 +1,4 @@
-# Intelligente Systems Project
+# Intelligent Systems Project
 ## Recognizing Digits using Neural Networks
 
 Academic Year 2020 - 2021
