@@ -3,8 +3,10 @@
 
 Academic Year 2020 - 2021
 
-João Vitor VARGAS SOARES 
+João Vitor VARGAS SOARES
+
 Nicolau PEREIRA ALFF
+#
 
 This project was developed in Python 3 using TensorFlow Keras as a project exercise part of the Intelligent Systems: Recognition and Reasoning subject at Grenoble INP - ENSIMAG - Information Systems Engineering.
 
